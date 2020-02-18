@@ -1,5 +1,4 @@
 # Indonesian Numeral Spellers
-### **_(Ubah file README.md ini setelah program diselesaikan)_**
 
 ## Latar Belakang
 Mengeja angka merupakan salah satu kegiatan dasar yang dilakukan setiap harinya. Contoh kegiatan tersebut yaitu mengeja harga barang, nilai data, tanggal dan tahun, serta masih banyak lagi. Meskipun terkesan hal sepele, berdasarkan penelitian dari para dokter di Indonesia, seorang anak baru bisa membaca dan mengeja angka pada umur 4-6 tahun. Rentang usia tersebut tentunya terasa kurang cepat. Padahal, semakin cepat seorang bisa membaca dan mengeja angka, maka semakin cepat pula anak tersebut dapat belajar berhitung dan mempelajari hal-hal lainnya, bahkan termasuk belajar pemrograman.
@@ -49,21 +48,6 @@ STATUS CODE 200
     "number" : 1997
 }
 ```
-
-## Bonus
-Buatlah sebuah aplikasi mobile atau website dengan tampilan menarik, yang menggunakan kedua API tersebut. Semakin menarik tampilan, semakin tinggi poin yang akan didapat.
-
-Teknologi yang direkomendasikan : **React.js**
-
-## Penilaian
-- Kebenaran fungsionalitas program.
-- Kebenaran API.
-- Pemahaman tentang bahasa pemrograman **Go** serta **REST API**.
-- Kerapihan _repository_ & kode, termasuk **README** (fungsi program, contoh request & response dari setiap endpoint) dan **arsitektur kode Go**.
-- UI (bonus).
-
-Nilai maksimum yang bisa didapatkan adalah **1600 (2600 dengan bonus)** poin. <br>
-_(Seribu Enam Ratus)_
 
 ## Referensi Pengerjaan _(sangat disarankan untuk diikuti dengan baik)_
 1. https://golang.org/doc/install
